@@ -1,0 +1,18 @@
+Q:
+Is your object an animal?
+Q:
+Does it hop?
+A:
+frog
+Q:
+Does it bark?
+A:
+dog
+Q:
+Does your object run fast?
+A:
+cheetah
+A:
+cat
+A:
+computer
